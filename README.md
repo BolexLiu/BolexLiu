@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi，我是香脆的大鸡排，Android 开发者。
+
+### Github State
+![大鸡排](https://github-readme-stats.vercel.app/api?username=bolexliu&show_icons=true&theme=dark)
 
 <!--
 **BolexLiu/BolexLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
